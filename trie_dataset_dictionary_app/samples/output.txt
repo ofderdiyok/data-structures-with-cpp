@@ -1,0 +1,34 @@
+"chonge" was added
+"chonge" was updated
+"chori" was added
+"chonge" was updated
+"ataki" was added
+"ate" was added
+"athvithar" was added
+"athyolar" was added
+"haj" was added
+"hake" was added
+"qaf" was added
+"qazer" was added
+"vafi" was added
+"vafikh" was added
+"valshe" was added
+"vos" was added
+"vov" was added
+"yor" was added
+"haj" already exist
+"eve" was added
+"ewe" was added
+"ate" already exist
+
+"not enough Dothraki word"
+"The English equivalent is solid"
+"incorrect Dothraki word"
+"incorrect Dothraki word"
+"not enough Dothraki word"
+"incorrect Dothraki word"
+"valshe" deletion is successful
+"athyolar" deletion is successful
+"dosh" was added
+"fiez" was added
+
